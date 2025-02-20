@@ -1,0 +1,18 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "learning": "file:../../features/learning",
+    "map": "file:../../features/map",
+    "quickstart": "file:../../features/quickstart"
+  }
+//  "dependencies": {
+//    "@ohos/learning": "file:../../features/learning",
+//    "@ohos/map": "file:../../features/map",
+//    "@ohos/quickstart": "file:../../features/quickstart"
+//  }
+}
